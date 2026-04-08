@@ -16,7 +16,7 @@ Dataset Statistics:
 5 Stars: ~67.4% (Positive)
 1 Star: ~16.1% (Negative)
 - Observation: Negative reviews often mention "Ads" (Iklan), "Premium subscription issues", or "Lyrics not syncing".
-Catatan : Sumber yang digunakan memiliki 100,000 baris data. Akan tetapi, pada proses pengembangan model hanya digunakan 20,000 baris data atau 20% dari total keseluruhan data. Adapaun hal tersebut dilakukan, karena adanya unsur KETERBATASAN DEVICE yang digunakan.
+- Catatan : Sumber yang digunakan memiliki 100,000 baris data. Akan tetapi, pada proses pengembangan model hanya digunakan 20,000 baris data atau 20% dari total keseluruhan data. Adapaun hal tersebut dilakukan, karena adanya unsur KETERBATASAN DEVICE yang digunakan.
 
 Column Descriptors
 The dataset contains the following columns (Headers are in Indonesian):
