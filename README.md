@@ -10,11 +10,10 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Nama | NIM | GitHub |
 | ---- | --- | ------ |
-| [Sahid Maulana] | [122450109] | [@username1] |
-| [Andre Hadiman Rotua Parhusip] | 122450108 | [@andrehd29 |
-| [Uliano Wilyam] | 122450098 | [@username3] |
+| Sahid Maulana | 122450109 | @username1 |
+| Andre Hadiman Rotua Parhusip | 122450108 | @andrehd29 |
+| Uliano Wilyam | 122450098 | @username3 |
 
-> ✏️ **TODO:** Ganti placeholder di tabel di atas dengan data anggota kelompok yang sebenarnya.
 
 ---
 
@@ -33,7 +32,7 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Model | Framework | Link Demo |
 | ----- | --------- | --------- |
-| 🌲 **Decision Tree + TF-IDF** | scikit-learn (PyCaret AutoML) | [🔗 ML Model](https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-ml) |
+| 🌲 **Decision Tree + TF-IDF** | scikit-learn | [🔗 ML Model](https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-ml) |
 | 🧠 **BiLSTM 2-layer** | PyTorch | [🔗 DL Model](https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-dl) |
 
 > ✏️ **TODO:** Update link DL Model setelah Space DL berhasil di-deploy.
@@ -94,7 +93,7 @@ TUGAS BESAR/
 
 ## 🔬 Metodologi
 
-### Machine Learning (PyCaret AutoML)
+### Machine Learning
 
 - **Preprocessing:** Cleaning → normalisasi slang → stopword removal → stemming (Sastrawi)
 - **Feature Extraction:** TF-IDF (`max_features=3000`)
