@@ -27,4 +27,4 @@ The dataset contains the following columns (Headers are in Indonesian):
 5. Likes: Number of thumbs-up votes the review received.
 6. Versi App: The version of Spotify installed on the user's device.
 
-Link Deployment Hugging Face : https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-ml/tree/main
+Link Deployment Hugging Face : https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-ml
