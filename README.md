@@ -35,7 +35,6 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 | 🌲 **Decision Tree + TF-IDF** | scikit-learn | [🔗 ML Model](https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-ml) |
 | 🧠 **BiLSTM 2-layer** | PyTorch | [🔗 DL Model](https://huggingface.co/spaces/tubespba-kelompoktuwir/sentimen-spotify-dl) |
 
-> ✏️ **TODO:** Update link DL Model setelah Space DL berhasil di-deploy.
 
 ---
 
