@@ -1,5 +1,5 @@
 # TUGAS BESAR SD25-32202 — Pemrosesan Bahasa Alami
-# Multi-Label Sentiment Analysis Spotify Apps
+# Sentiment Analysis Spotify Apps
 
 Kelompok 13 (Tuwir):
 - Sahid Maulana | 122450109
