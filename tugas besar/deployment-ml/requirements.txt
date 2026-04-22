@@ -1,5 +1,0 @@
-streamlit>=1.40.0
-pycaret[full]>=3.0.0
-pandas
-scikit-learn
-PySastrawi
