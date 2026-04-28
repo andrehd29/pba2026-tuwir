@@ -12,7 +12,7 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 | ---- | --- | ------ |
 | Sahid Maulana | 122450109 | @username1 |
 | Andre Hadiman Rotua Parhusip | 122450108 | @andrehd29 |
-| Uliano Wilyam | 122450098 | @username3 |
+| Uliano Wilyam Purba | 122450098 | @uliano122450098 |
 
 
 ---
