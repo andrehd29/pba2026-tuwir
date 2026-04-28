@@ -10,7 +10,7 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Nama | NIM | GitHub |
 | ---- | --- | ------ |
-| Sahid Maulana | 122450109 | @username1 |
+| Sahid Maulana | 122450109 | @beginneraingmah1614 |
 | Andre Hadiman Rotua Parhusip | 122450108 | @andrehd29 |
 | Uliano Wilyam Purba | 122450098 | @uliano122450098 |
 
