@@ -165,6 +165,7 @@ jupyter notebook DL_BiLSTM_Sentimen_Spotify.ipynb
 ## 📚 Referensi
 
 Lihat detail referensi pada paper arXiv.
+
 [1] Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis.
     Foundations and Trends in Information Retrieval, 2(1–2), 1–135.
     https://doi.org/10.1561/1500000011
