@@ -10,9 +10,9 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Nama | NIM | GitHub |
 | ---- | --- | ------ |
-| Sahid Maulana | 122450109 | @beginneraingmah1614 |
-| Andre Hadiman Rotua Parhusip | 122450108 | @andrehd29 |
 | Uliano Wilyam Purba | 122450098 | @uliano122450098 |
+| Andre Hadiman Rotua Parhusip | 122450108 | @andrehd29 |
+| Sahid Maulana | 122450109 | @beginneraingmah1614 |
 
 
 ---
@@ -164,7 +164,54 @@ jupyter notebook DL_BiLSTM_Sentimen_Spotify.ipynb
 
 ## 📚 Referensi
 
-Lihat detail referensi pada paper arXiv (akan tersedia setelah Checkpoint 4).
+Lihat detail referensi pada paper arXiv.
+[1] Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis.
+    Foundations and Trends in Information Retrieval, 2(1–2), 1–135.
+    https://doi.org/10.1561/1500000011
+
+[2] Pratap, A., & Nidhi. (2020). Comparative sentiment analysis of app reviews.
+    arXiv:2006.09739.
+
+[3] Rustam, F., et al. (2021). A comparative study of sentiment analysis using
+    NLP and different machine learning techniques on US airline Twitter data.
+    arXiv:2110.00859.
+
+[4] Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory.
+    Neural Computation, 9(8), 1735–1780.
+    https://doi.org/10.1162/neco.1997.9.8.1735
+
+[5] Xu, G., Meng, Y., Qiu, X., Yu, Z., & Wu, X. (2019). Sentiment analysis of
+    comment texts based on BiLSTM. IEEE Access, 7, 51522–51532.
+
+[6] Lin, C.-H., & Nuha, U. (2023). Sentiment analysis of Indonesian datasets based
+    on a hybrid deep-learning strategy. Journal of Big Data, 10(1), 88.
+    https://doi.org/10.1186/s40537-023-00782-9
+
+[7] Wilie, B., et al. (2020). IndoNLU: Benchmark and resources for evaluating
+    Indonesian natural language understanding. In Proceedings of AACL-IJCNLP 2020,
+    pp. 843–857. Association for Computational Linguistics.
+
+[8] Kuncahyo, S., et al. (2020). Improving Bi-LSTM performance for Indonesian
+    sentiment analysis using paragraph vector. arXiv:2009.05720.
+
+[9] Farizki, M., et al. (2025). Klasifikasi sentimen menggunakan Bidirectional LSTM
+    dan IndoBERT dengan dataset terbatas. ZONAsi: Jurnal Sistem Informasi.
+
+[10] Abiola, O., et al. (2024). Sentiment classification on the 2024 Indonesian
+     presidential candidate dataset using deep learning approaches. Indonesian
+     Journal of Statistics and Its Applications.
+
+[11] Adriani, M., Asian, J., Nazief, B., Tahaghoghi, S. M. M., & Williams, H. E.
+     (2007). Stemming Indonesian. ACM Transactions on Asian Language Information
+     Processing, 6(4), 1–33.
+
+[12] Ossai, C. I., & Wickramasinghe, N. (2024). Sentiment analysis on Google Play
+     Store app users' reviews based on deep learning approach. Multimedia Tools and
+     Applications. https://doi.org/10.1007/s11042-024-19185-w
+
+[13] Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE:
+     Synthetic minority over-sampling technique. Journal of Artificial Intelligence
+     Research, 16, 321–357.
 
 ---
 
