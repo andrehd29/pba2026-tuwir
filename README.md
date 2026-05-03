@@ -1,4 +1,4 @@
-# 🎵 Tugas Besar Pemrosesan Bahasa Alami — Sentiment Analysis Spotify Reviews
+# 🎵 Tugas Besar Pemrosesan Bahasa Alami — Ssentiment Analysis of Indonesian Spotify Reviews Using Machine Learning and BiLSTM
 
 > **Benchmarking Machine Learning (Scikit Learn) vs Deep Learning (BiLSTM PyTorch) untuk Klasifikasi Sentimen Ulasan Spotify Berbahasa Indonesia**
 
@@ -42,7 +42,7 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Status | Link |
 | ------ | ---- |
-| Published on arXiv | [🔗 arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) |
+| Submitted to arXiv (Awaiting Publication | [🔗 arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) |
 
 > ✏️ **TODO:** Update link arXiv setelah paper di-publish (Checkpoint 4).
 
@@ -155,10 +155,10 @@ jupyter notebook DL_BiLSTM_Sentimen_Spotify.ipynb
 
 | Model | Framework | Accuracy | Precision | Recall | F1-Score | Params |
 | ----- | --------- | -------- | --------- | ------ | -------- | ------ |
-| Decision Tree | sklearn | TBD | TBD | TBD | TBD | - |
-| SVM | sklearn | TBD | TBD | TBD | TBD | - |
-| Multinomial NB | sklearn | TBD | TBD | TBD | TBD | - |
-| **BiLSTM** | **PyTorch** | **TBD** | **TBD** | **TBD** | **TBD** | **~2M** |
+| Decision Tree | sklearn | 72.86% | 72.73% | 72.86% | 72.69% | - |
+| SVM | sklearn | 69.91% | 69.56% | 69.91% | 69.58% | - |
+| Multinomial NB | sklearn | 49.48% | 61.81% | 49.48% | 46.19% | - |
+| **BiLSTM** | **PyTorch** | **83.14%** | **78.41%** | **83.14%** | **80.69%** | **~2M** |
 
 ---
 
