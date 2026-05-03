@@ -1,4 +1,4 @@
-# 🎵 Tugas Besar Pemrosesan Bahasa Alami — Ssentiment Analysis of Indonesian Spotify Reviews Using Machine Learning and BiLSTM
+# 🎵 Tugas Besar Pemrosesan Bahasa Alami — Sentiment Analysis of Indonesian Spotify Reviews Using Machine Learning and BiLSTM
 
 > **Benchmarking Machine Learning (Scikit Learn) vs Deep Learning (BiLSTM PyTorch) untuk Klasifikasi Sentimen Ulasan Spotify Berbahasa Indonesia**
 
