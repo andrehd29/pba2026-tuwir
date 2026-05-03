@@ -42,7 +42,7 @@ Repository ini berisi implementasi tugas besar mata kuliah **SD25-32202 Pemroses
 
 | Status | Link |
 | ------ | ---- |
-| Submitted to arXiv (Awaiting Publication | [🔗 arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) |
+| Submitted to arXiv (Awaiting Publication) | [🔗 arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX) |
 
 > ✏️ **TODO:** Update link arXiv setelah paper di-publish (Checkpoint 4).
 
