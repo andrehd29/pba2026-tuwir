@@ -158,7 +158,7 @@ jupyter notebook DL_BiLSTM_Sentimen_Spotify.ipynb
 | Decision Tree | sklearn | 72.86% | 72.73% | 72.86% | 72.69% | - |
 | SVM | sklearn | 69.91% | 69.56% | 69.91% | 69.58% | - |
 | Multinomial NB | sklearn | 49.48% | 61.81% | 49.48% | 46.19% | - |
-| **BiLSTM** | **PyTorch** | **83.14%** | **78.41%** | **83.14%** | **80.69%** | **~2M** |
+| **BiLSTM** | **PyTorch** | **83.14%** | **78.41%** | **83.14%** | **80.69%** | **~1.1M** |
 
 ---
 
